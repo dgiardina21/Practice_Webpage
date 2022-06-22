@@ -1,0 +1,31 @@
+.navButtons{
+    display: inline-block;
+    background-color: gray;
+   padding: 8px 16px 8px 16px;
+}
+
+.sideBar{
+    float: left;
+    width: 29%;
+    height: 1000px;
+    background-color: greenyellow;
+}
+
+.profile{
+    text-align: center;
+    height: 30%;
+    background-color: blue;
+}
+
+.profileDetails{
+    text-align: center;
+    height: 70%;
+    background-color: cadetblue;
+}
+
+.mainContent{
+    float:left;
+    width: 71%;
+    height: 1000px;
+    background-color: red;
+}
